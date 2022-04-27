@@ -1,0 +1,2 @@
+# Clean Code Challenge #2: 10 Refactorings
+A little coding challenge in Java, Typescript or C++. Take a look at the class and see if you can find the 10 places (in Typescript only 9) that can be improved. 
